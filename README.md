@@ -116,9 +116,3 @@ Feel free to fork the repository and submit pull requests for any improvements o
 This project is licensed under the MIT License.
 
 ---
-
-## Acknowledgments
-- Developed by **Aashish**.
-- Dedicated to the hardworking farmers of the world.
-- Inspired by the mission to improve agricultural productivity through technology.
-
